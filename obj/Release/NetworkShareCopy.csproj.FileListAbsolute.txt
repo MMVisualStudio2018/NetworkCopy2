@@ -1,0 +1,7 @@
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\bin\Release\NetworkShareCopy.exe
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\bin\Release\NetworkShareCopy.pdb
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\obj\Release\NetworkShareCopy.Form1.resources
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\obj\Release\NetworkShareCopy.Properties.Resources.resources
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\obj\Release\NetworkShareCopy.csproj.GenerateResource.Cache
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\obj\Release\NetworkShareCopy.exe
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\obj\Release\NetworkShareCopy.pdb

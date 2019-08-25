@@ -1,0 +1,16 @@
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\bin\Debug\NetworkShareCopy.exe
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\bin\Debug\NetworkShareCopy.pdb
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\obj\Debug\NetworkShareCopy.Form1.resources
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\obj\Debug\NetworkShareCopy.Properties.Resources.resources
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\obj\Debug\NetworkShareCopy.csproj.GenerateResource.Cache
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\obj\Debug\NetworkShareCopy.exe
+D:\PROJECTS\NetworkShareCopy\NetworkShareCopy\obj\Debug\NetworkShareCopy.pdb
+C:\Users\Mohsen\Desktop\mine\CreditSuisseProject\NetworkShareCopy_src\NetworkShareCopy\NetworkShareCopy\bin\Debug\NetworkShareCopy.exe
+C:\Users\Mohsen\Desktop\mine\CreditSuisseProject\NetworkShareCopy_src\NetworkShareCopy\NetworkShareCopy\bin\Debug\NetworkShareCopy.pdb
+C:\Users\Mohsen\Desktop\mine\CreditSuisseProject\NetworkShareCopy_src\NetworkShareCopy\NetworkShareCopy\obj\Debug\NetworkShareCopy.csprojAssemblyReference.cache
+C:\Users\Mohsen\Desktop\mine\CreditSuisseProject\NetworkShareCopy_src\NetworkShareCopy\NetworkShareCopy\obj\Debug\NetworkShareCopy.Form1.resources
+C:\Users\Mohsen\Desktop\mine\CreditSuisseProject\NetworkShareCopy_src\NetworkShareCopy\NetworkShareCopy\obj\Debug\NetworkShareCopy.Properties.Resources.resources
+C:\Users\Mohsen\Desktop\mine\CreditSuisseProject\NetworkShareCopy_src\NetworkShareCopy\NetworkShareCopy\obj\Debug\NetworkShareCopy.csproj.GenerateResource.cache
+C:\Users\Mohsen\Desktop\mine\CreditSuisseProject\NetworkShareCopy_src\NetworkShareCopy\NetworkShareCopy\obj\Debug\NetworkShareCopy.csproj.CoreCompileInputs.cache
+C:\Users\Mohsen\Desktop\mine\CreditSuisseProject\NetworkShareCopy_src\NetworkShareCopy\NetworkShareCopy\obj\Debug\NetworkShareCopy.exe
+C:\Users\Mohsen\Desktop\mine\CreditSuisseProject\NetworkShareCopy_src\NetworkShareCopy\NetworkShareCopy\obj\Debug\NetworkShareCopy.pdb
